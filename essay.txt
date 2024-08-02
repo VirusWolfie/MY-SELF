@@ -1,0 +1,6 @@
+Ahmed Imran is an aspiring AI developer with a profound interest in the transformative potential of artificial intelligence.
+Driven by a passion for technology and innovation, he has developed a solid foundation in mathematics, computer science, and machine learning. 
+I have gained practical experience through various projects, mastering key AI tools and frameworks like TensorFlow and PyTorch. 
+I stay abreast of the latest advancements in the field, continually expanding his knowledge and skills. 
+My goal is to create intelligent, ethical AI solutions that address complex problems and contribute positively to societ
+echo
